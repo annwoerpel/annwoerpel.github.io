@@ -4,4 +4,4 @@ Contains my own materials including my exercise solutions of Daniel Bourke's [Le
 
 | Chapter  | Exercises |
 | ------------- | ------------- |
-| [00 - PyTorch Fundamentals](markdowns/00_pytorch_fundamentals.md)  | Exercise  |
+| [00 - PyTorch Fundamentals](markdowns/00_pytorch_fundamentals.md)  | [00 - Exercise](markdowns/00_pytorch_fundamentals_exercise.md)  |
