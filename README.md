@@ -7,3 +7,4 @@ Contains my own materials including my exercise solutions of Daniel Bourke's [Le
 | [00 - PyTorch Fundamentals](markdowns/00_pytorch_fundamentals.md) | [00 - Exercise](markdowns/00_pytorch_fundamentals_exercises.md) | Tensors, NumPy, Pandas, Reproducibility, GPU Runtime
 | [01 - PyTorch Workflow](markdowns/01_pytorch_workflow.md) | [01 - Exercise](markdowns/01_pytorch_workflow_exercises.md) | Creating Sample Data, Building Models, Training, Predictions, Evaluating, Saving, Loading
 | [02 - PyTorch Classification](markdowns/02_pytorch_classification.md) | [02 - Exercise](markdowns/02_pytorch_classification_exercises.md) | Binary Classification, Classification Models, Training, Inference, Improvements, Non-Linearity, Multi-Class Classification
+| [03 - PyTorch Computer Vision](markdowns/03_pytorch_computer_vision.md) | [03 - Exercise] | CV Libraries and Data, Convolutional Neural Networks (CNNs), Comparing, Evaluating, Confusion Matrix
