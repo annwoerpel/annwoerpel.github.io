@@ -9,3 +9,10 @@ Contains my own materials including my exercise solutions of Daniel Bourke's [Le
 | [02 - PyTorch Classification](markdowns/02_pytorch_classification.md) | [02 - Exercise](markdowns/02_pytorch_classification_exercises.md) | Binary Classification, Classification Models, Training, Inference, Improvements, Non-Linearity, Multi-Class Classification
 | [03 - PyTorch Computer Vision](markdowns/03_pytorch_computer_vision.md) | [03 - Exercise](markdowns/03_pytorch_computer_vision_exercises.md) | CV Libraries and Data, Convolutional Neural Networks (CNNs), Comparing, Evaluating, Confusion Matrix
 | [04 - PyTorch Custom Datasets](markdowns/04_pytorch_custom_datasets.md) | [04 - Exercise](markdowns/04_pytorch_custom_datasets_exercises.md) | Data Preparation, Data Transformations, ImageFolder Dataset, Custom Dataset, Data Augmentation, TinyVGG, Exploring Loss Curves, Predicting on Custom Images
+
+## SQL Data Cleaning
+The first SQL project handles cleaning up .csv data. The dataset is from [AlexTheAnalyst](https://github.com/AlexTheAnalyst).
+Topics: Removing Duplicates, Standardization, Populating Null Values or Blank Values, Removing Unnecessary Columns.
+The Code can be seen [here](SQL_projects/Data_Cleaning.sql).
+The cleaned data looks like this:
+![screenshot](SQL_projects/cleaned_data.jpeg)
