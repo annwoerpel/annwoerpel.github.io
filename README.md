@@ -12,7 +12,10 @@ Contains my own materials including my exercise solutions of Daniel Bourke's [Le
 
 ## SQL Data Cleaning
 The first SQL project handles cleaning up .csv data. The dataset is from [AlexTheAnalyst](https://github.com/AlexTheAnalyst).
+
 Topics: Removing Duplicates, Standardization, Populating Null Values or Blank Values, Removing Unnecessary Columns.
+
 The Code can be seen [here](SQL_projects/Data_Cleaning.sql).
+
 The cleaned data looks like this:
 ![screenshot](SQL_projects/cleaned_data.jpeg)
