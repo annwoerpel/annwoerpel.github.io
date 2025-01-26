@@ -19,3 +19,7 @@ The Code can be seen [here](SQL_projects/Data_Cleaning.sql).
 
 The cleaned data looks like this:
 ![screenshot](SQL_projects/cleaned_data.jpeg)
+
+The second SQL project is about exploring the cleaned up data with some useful queries.
+
+The Code can be seen [here](SQL_projects/Exploratory_Data_Analysis.sql).
