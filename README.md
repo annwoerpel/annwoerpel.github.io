@@ -15,11 +15,11 @@ The first SQL project handles cleaning up .csv data. The dataset is from [AlexTh
 
 Topics: Removing Duplicates, Standardization, Populating Null Values or Blank Values, Removing Unnecessary Columns.
 
-The Code can be seen [here](SQL_projects/Data_Cleaning.sql).
+The Code can be seen [here](SQL_projects/Data_Cleaning.md).
 
 The cleaned data looks like this:
 ![screenshot](SQL_projects/cleaned_data.jpeg)
 
 The second SQL project is about exploring the cleaned up data with some useful queries.
 
-The Code can be seen [here](SQL_projects/Exploratory_Data_Analysis.sql).
+The Code can be seen [here](SQL_projects/Exploratory_Data_Analysis.md).
