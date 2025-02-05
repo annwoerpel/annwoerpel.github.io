@@ -23,3 +23,18 @@ The cleaned data looks like this:
 The second SQL project is about exploring the cleaned up data with some useful queries.
 
 The Code can be seen [here](SQL_projects/Exploratory_Data_Analysis.md).
+
+## Excel Data Cleaning & Dashboard Creation
+The dataset is also from [AlexTheAnalyst](https://github.com/AlexTheAnalyst).
+
+1. Raw data:
+   ![screenshot](Excel_projects/excel_rawdata.jpeg)
+
+2. Cleaned data:
+   ![screenshot](Excel_projects/excel_cleaneddata.jpeg)
+
+3. Created Pivot Tables and some Visualizations:
+   ![screenshot](Excel_projects/excel_pivottables.jpeg)
+
+4. An Interactive Dashboard created with the Visualizations from before.
+   ![screenshot](Excel_projects/excel_dashboard.jpeg)
